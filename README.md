@@ -40,7 +40,10 @@ Before diving in, it helps to know:
 
 ### Beginner-Friendly Platforms  
 - 🎮 [OverTheWire: Bandit](https://overthewire.org/wargames/bandit/) – Linux basics through fun levels.  
-- 🐚 [RootMe (TryHackMe Room)](https://tryhackme.com/room/rrootme) – Simple guided hacking tasks.  
+🕵️ [RootMe](https://www.root-me.org/) – Large collection of challenges across categories (web, crypto, reverse, forensics). 
+- 🌍 [CTFlearn](https://ctflearn.com/) – Community-driven CTF site with many beginner-level challenges. 
+- 🔐 [CryptoHack](https://cryptohack.org/) – Very popular for practicing cryptography challenges.  
+- 📚 [W3Challs](https://w3challs.com/) – Widely used training ground for web exploitation, crypto, and reversing.  
 - 🏴 [picoCTF](https://picoctf.org/) – Beginner CTF platform with hints and practice challenges.  
 - 📘 [CTF101 Handbook](https://ctf101.org/) – Essential theory and techniques.   
 
