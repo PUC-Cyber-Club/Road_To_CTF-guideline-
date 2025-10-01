@@ -17,8 +17,8 @@
 
 There are **two main types of CTFs**:  
 
-1. **Jeopardy-Style** – Solve independent tasks across categories for points. Great for beginners.  
-2. **Attack-Defense** – Teams defend their own servers while attacking others. More advanced and team-oriented.  
+1. **[Jeopardy-Style](https://rohit12.medium.com/how-i-solve-jeopardy-style-ctf-challenges-to-exploit-security-vulnerabilities-to-find-the-flags-and-b3a497ddbf22)** – Solve independent tasks across categories for points. Great for beginners.  
+2. **[Attack-Defense](https://medium.com/@iabdullah_215/my-guide-to-attack-and-defense-ctfs-ecbe838d49cd)** – Teams defend their own servers while attacking others. More advanced and team-oriented.  
 
 ---
 
