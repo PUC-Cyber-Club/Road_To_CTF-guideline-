@@ -1,9 +1,5 @@
 # 🏴 Road To CTF – Beginner’s Guide  
 
-Welcome to **Road To CTF** – your one-stop guide from **zero to hero** in Capture The Flag (CTF) competitions. Whether you’re completely new or looking to level up your skills, this guide combines the best resources, tools, and roadmaps to help you succeed.  
-
----
-
 ## 📌 What are CTFs?  
 
 **Capture The Flag (CTF)** competitions are cybersecurity challenges where participants find hidden “flags” (strings or tokens) by solving puzzles in areas like:  
