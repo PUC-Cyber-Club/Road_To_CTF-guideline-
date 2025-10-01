@@ -61,9 +61,9 @@ Before diving in, it helps to know:
 
 1. Learn **Linux basics** → [OverTheWire Bandit](https://overthewire.org/wargames/bandit/)  
 2. Understand **Networking** → [Practical Networking](https://www.youtube.com/@PracticalNetworking),   [Network Chuck ](https://www.youtube.com/@NetworkChuck)
-3. Start with **Web & Crypto challenges** → [picoCTF](https://picoctf.org/), [HackTheBox](https://www.hackthebox.com/)  
+3. Start with **Web & Crypto challenges** → [youtube](https://www.youtube.com/watch?v=0jCGyf32rHs&list=PLHUKi1UlEgOIn12nvhwwq2aTU8bG-FE0I) 
 4. Dive into **Reverse Engineering & Binary Exploitation** → [John Hammond](https://www.youtube.com/@_JohnHammond),  [LiveOverflow](https://www.youtube.com/c/LiveOverflow)  
-5. Practice weekly on [CTFtime events](https://ctftime.org/)    
+5. Practice weekly on [CTFtime events](https://ctftime.org/) [Htb Events](https://ctf.hackthebox.com/event/2770)
 
 ---
 ## 🛠 Tools & Resources  
